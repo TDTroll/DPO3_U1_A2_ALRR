@@ -1,0 +1,6 @@
+# Catálogo de Alcaldías - Ferretería La Golondrina
+# Formato: nombre|alcalde|poblacion|telefono
+Álvaro Obregón|Lía Limón García|759137|5555550101
+Azcapotzalco|Nancy Marlene Núñez Reséndiz|432205|5555550102
+Benito Juárez|Luis Mendoza Acevedo|434153|5555550103
+Venustiano Carranza|Jassan Rea|354239|55668993202
